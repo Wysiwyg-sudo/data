@@ -1,0 +1,16 @@
+{
+  "pays":  [
+  {
+      "name": "France",
+    "populate": 69635784,
+    "politic": "Republic",
+    "situation": "Europe"
+  },
+  {
+      "name": "Thailande",
+    "populate": 70635786,
+    "politic": "Republic",
+    "situation": "Asie"
+  }
+]
+}
